@@ -21,7 +21,7 @@ Implement the **value iteration algorithm on 4x4 non-slippery (deterministic) fr
 ## Task 2 
 Implement the **value iteration algorithm on 4x4 slippery (stochastic) frozen lake**
 
-## Task 1 
+## Task 3 
 Implement the **value iteration algorithm on 8x8 non-slippery (deterministic) frozen lake**
 
 
