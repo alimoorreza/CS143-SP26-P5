@@ -13,3 +13,5 @@ The goal of this assignment is to solve an AI problem using **reinforcement lear
 <p align="center">
   <img src="frozen_lake_8x8_sample.png" alt="Frozen Lake Environment" width="200"/>
 </p>
+
+Note that you should adapt the value iteration algorithm implementation provided as a skeleton for a simple dice game. Your task is to complete the implementation by filling in the missing components and addressing all associated tasks. Your code must follow the provided format.
