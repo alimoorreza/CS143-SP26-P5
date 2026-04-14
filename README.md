@@ -43,7 +43,8 @@ Complete and run three instances of Frozen Lakes (Exercises#1-3) with value iter
 Also include a text/Markdown cell that addresses the following points:
 
 1. Specify how different values of the discount factor $\gamma$ affected your value iteration algorithm. You should try at least one of the three instances of FrozenLake and make a note of your observations.
-2. Discuss any differences observed—using the comparative table above—in the computed routes, execution time, number of nodes expanded, and related metrics.
+2. Run your value iteration algorithm for at least 50 iterations. Do you observe any changes in your Q(s,a) table after a certain number of iterations? Do you observe any changes in the table after a certain number of iterations? Most importantly, do you observe any changes in your optimal policy values (i.e., the best action for each state) after a certain number of iterations? You should try at least one of the two instances of FrozenLake and make note of your observations.
+3. Discuss any differences observed—using the comparative table above—in the computed routes, execution time, number of nodes expanded, and related metrics.
 
 
 
