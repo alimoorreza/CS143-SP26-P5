@@ -6,7 +6,7 @@ Instructor: Md Alimoor Reza, Assistant Professor of Computer Science, Drake Univ
 Due: Tuesday, April 21, 11:59 PM
 Total: 8 points
 
-## Solving Frozen Lake Game with Value Iteration Algorithm
+## Finding Optimal Policy for Frozen Lake using Value Iteration Algorithm
 
 The goal of this assignment is to solve an AI problem using **reinforcement learning** techniques such as the **value iteration algorithm** on a Markov Decision Process (MDP) with known dynamics. You will work with an AI agent that interacts with a simulated environment using the Gymnasium library.
 
