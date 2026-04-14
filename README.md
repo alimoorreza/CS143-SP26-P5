@@ -42,13 +42,9 @@ Complete and run three instances of Frozen Lakes (Exercises#1-3) with value iter
 
 Also include a text/Markdown cell that addresses the following points:
 
-1. Explain the basis on which the path costs are computed.
+1. Specify how different values of the discount factor $\gamma$ affected your value iteration algorithm. You should try at least one of the three instances of FrozenLake and make a note of your observations.
+2. Discuss any differences observed—using the comparative table above—in the computed routes, execution time, number of nodes expanded, and related metrics.
 
-2. Specify how different values of the discount factor $\gamma$ affected your value iteration algorithm. You should try at least one of the three instances of FrozenLake and make a note of your observations.
-
-3. Provide a brief description of the modifications made to the code.
-
-4. Discuss any differences observed—using the comparative table above—in the computed routes, execution time, number of nodes expanded, and related metrics.
 
 
 ### Grading
